@@ -24,5 +24,5 @@ Simon Says Game is a fun and challenging web-based game built using HTML, CSS, a
 - JavaScript
 # Credits 🙌
 - [Vaibhav Kushwaha](https://www.linkedin.com/in/professorauggie)
-Contributing 🚀
+# Contributing 🚀
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
