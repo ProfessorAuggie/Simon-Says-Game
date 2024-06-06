@@ -19,9 +19,9 @@ Simon Says Game is a fun and challenging web-based game built using HTML, CSS, a
 - 🔊 Sound effects to accompany each color in the sequence.
 - 📱 Responsive design for optimal gameplay on various screen sizes.
 # Technologies Used 🛠️
-HTML5
-CSS3
-JavaScript
+- HTML5
+- CSS3
+- JavaScript
 # Credits 🙌
 - [Vaibhav Kushwaha](https://www.linkedin.com/in/professorauggie)
 Contributing 🚀
